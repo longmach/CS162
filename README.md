@@ -2,7 +2,7 @@
 
 Introduction
 
-	This game aims to simulate the interdependences and significances between relationships, work, finance, physical health, mental health, and retirement.	
+	This game aims to simulate the interdependence and significance between relationships, work, finance, physical health, mental health, and retirement.	
     
     Players will go through 4 stages in life when they can actively make decisions that will affect their current and future status:
     - Young Adult
